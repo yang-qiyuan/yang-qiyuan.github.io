@@ -14,12 +14,12 @@ Education
 * M.S. in Computer Science, Rice University, 2025 (expected)
 * B.S. in Computer Science, University of Michigan, 2023
 
-Work experience
+<!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Supervisor: The Users -->
 <!-- 
 * Fall 2015: Research Assistant
   * GitHub University
